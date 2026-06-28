@@ -1,0 +1,9 @@
+numpy>=1.21
+pandas>=1.3
+scipy>=1.7
+scikit-image>=0.18
+matplotlib>=3.4
+PyQt5>=5.15
+openpyxl>=3.0
+# 如需读取旧版 .xls 文件，请额外安装：
+# xlrd>=2.0
